@@ -15,10 +15,12 @@ addProductButton.addEventListener('click', function(){
             productImage: productImage.value,
         })
         createItemInTable(productsList)
+        // this should be a function.
         productInput.value = ''
         productPrice.value = ''
         productCategory.value = ''
         productImage.value = ''  
+        // NO CONSOLE
         console.log(productsList)
         console.log(productsList[0].productPrice)
     }
