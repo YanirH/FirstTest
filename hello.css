@@ -1,0 +1,34 @@
+.small-image {
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+}
+
+input {
+    margin: 3px;
+}
+select {
+    margin: 3px;
+}
+.containerr {
+    width: 250px;
+    margin-left: 10px;
+}
+th {
+    margin: 80px;
+}
+#addProductButton {
+    margin-top: 10px;
+}
+body {
+    background-color: antiquewhite;
+}
+h1{
+    margin-left: 10px;
+}
+table {
+    margin-left: 10px;
+}
+#addProductButton{
+    margin-left: 10px;
+}
